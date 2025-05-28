@@ -1,2 +1,2 @@
-#Repository of Cold Electricity Open Project Official Website
-This repository contains files of Cold Electricity Open Project official website.
+# Repository of Cold Electricity Open Project Official Website
+This repository contains source code of Cold Electricity Open Project official website.
